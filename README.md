@@ -23,25 +23,24 @@ This project is a Java graphical simulation of billiard balls, demonstrating **p
 7. Option to increase up to 200 smaller balls.
 8. Three different maps with start and goal positions, and prediction of which ball will fall first.
 
-##Parallelism
+Parallelism
 
 Each ball runs in a separate thread, updating its position and handling wall collisions in parallel.  
 The main thread handles rendering (`repaint()`) and inter-ball collisions.
-
-## How to Run
+How to Run
 
 1. Open the project in **NetBeans**.
 2. Build and Run (`Shift + F6`).
 3. Enjoy watching the simulation!
 
-##  Controls (if implemented)
+Controls (if implemented)
 
 - `Space` – Pause/Resume
 - `R` – Reset balls
 - `M` – Change map
 - `+ / -` – Increase/Decrease number of balls
 
-##  Technologies
+Technologies
 
 - Java 8+
 - Swing / AWT (graphics)
