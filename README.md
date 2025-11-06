@@ -46,4 +46,8 @@ Technologies
 - Swing / AWT (graphics)
 - Threads for parallel simulation
 
+  
+  -Link xem sản phẩm :
+https://youtu.be/ICgUErIbzOk
+
 
