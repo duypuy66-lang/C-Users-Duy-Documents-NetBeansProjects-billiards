@@ -1,13 +1,13 @@
-Lập trình song song, bài toán bi-a
-Yêu cầu:
-1. lập trình đồ họa, mô tả 1 quả bóng nẩy trong khung hình chữ nhật. (giống quả bi-a).
-2. nhân bán lên cùng lúc 8 quá với 8 mầu khác nhau, cùng lúc chuyển động với góc ngẫu nhiên. Chỉ nấy tường không va chạm vào nhau.
-3. Cho phép quá bóng va chạm vào nhau. Cho tốc độ của bóng giảm dần và dừng lại hẳn sau 1 phút.
-4. Điền số vào cho từng quả bong
-5. cho 1 cái lỗ ở giữa bàn, quả nào rơi xuống lỗ quả đó biến mất.
-6. Cải tiến theo hướng tăng số bóng lện 200 quả, cho bán kính nhỏ hơn.
-7. Xây dựng 3 map khác nhau. tạo điểm xuất phát và điểm đích, dự đoán quả nào rơi xuống lỗ đầu tiên.
-Cuối cùng: Đầy code lên github, để public, giới thiệu về game bằng tiềng Anh.
+Parallel Programming, Billiards Problem  
+Requirements:  
+1. Create a graphical program that depicts a ball bouncing within a rectangular frame (similar to a billiard ball).  
+2. Simultaneously generate 8 balls of different colors, each moving at a random angle. Ensure they do not collide with each other.  
+3. Allow the balls to collide with one another. Gradually decrease their speed until they come to a complete stop after 1 minute.  
+4. Assign a number to each ball.  
+5. Include a hole in the center of the table; any ball that falls into the hole disappears.  
+6. Improve the program to increase the number of balls to 200, with a smaller radius.  
+7. Create 3 different maps, establishing a starting point and a destination, and predict which ball will fall into the hole first.  
+Finally: Upload the code to GitHub for public access and introduce the game in English.  
 # Parallel Billiards Simulation (Java, NetBeans)
 
 This project is a Java graphical simulation of billiard balls, demonstrating **parallel programming** and **basic 2D graphics** using Swing.
